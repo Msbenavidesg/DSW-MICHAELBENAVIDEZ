@@ -19,14 +19,14 @@ justify-content: space-between;
 
 .menu ul a {
     font-family: Arial, Helvetica, sans-serif;
-    color: black;
+    color: #7700ff;
     text-decoration: none;
     font-weight: 600;
 }
 
 .menu ul a:hover {
     background: #db7515;
-    color: white;
+    color:#5BB9FF;
 }
 .colums{
     text-indent: 40px;
@@ -72,7 +72,7 @@ justify-content: space-between;
 }
 
 .footer-text {
-    color: #000000;
+    color: #5BB9FF;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
