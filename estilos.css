@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 20PX;
+    margin: 20px;
     padding: 0;
     background:  #a6b1d3;
 }
@@ -43,10 +43,10 @@ justify-content: space-between;
 
 .body-container {
     display: flex;
-    margin-bottom: 50px;
-    margin-left:50px;
-    margin-right:50px;
-    margin-top:50px;
+    margin-bottom: 10px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:10px;
 
 }
 
