@@ -5,7 +5,7 @@ body {
     background:  #a6b1d3;
 }
 .html5 {
-    border-radius: 100px;
+    border-radius: 15px;
     
 
 }
@@ -43,6 +43,11 @@ justify-content: space-between;
 
 .body-container {
     display: flex;
+    margin-bottom: 50px;
+    margin-left:50px;
+    margin-right:50px;
+    margin-top:50px;
+
 }
 
 .columns {
